@@ -30,7 +30,7 @@ export function About() {
           </div>
           <div className="lg:col-span-2">
             <h3 className="mb-6 text-2xl font-bold font-headline">Keahlian Saya</h3>
-            <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
+            <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4">
               {SKILLS.map((skill) => {
                 const Icon = skill.icon === 'figma' ? FigmaIcon : skill.icon as LucideIcon;
                 return (

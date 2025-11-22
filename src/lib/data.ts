@@ -22,6 +22,10 @@ export const SKILLS = [
   { name: 'Figma', icon: 'figma' },
   { name: 'SQL', icon: Database },
   { name: 'GenAI', icon: Bot },
+  { name: 'Bootstrap', icon: Code },
+  { name: 'Flask', icon: Code },
+  { name: 'Laravel', icon: Code },
+  { name: 'Flutter', icon: Code },
 ];
 
 export const PROJECTS = [
