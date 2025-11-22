@@ -92,6 +92,6 @@ export const EDUCATION = [
   {
     degree: 'Sertifikasi Fundamental Linux',
     institution: 'Aguna Course',
-    duration: '2020',
+    duration: '2024',
   },
 ];
