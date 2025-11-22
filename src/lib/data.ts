@@ -52,7 +52,7 @@ export const PROJECTS = [
   },
   {
     title: 'Ekspost',
-    description: 'Solusi e-commerce bertenaga AI yang menyediakan pengalaman berbelanja yang dipersonalisasi dan rekomendasi produk yang cerdas.',
+    description: 'Web ini dibuat dengan menggunakan Flask sebagai backend dan Bootstrap sebagai frontend juga MongoDB Atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-4',
     liveUrl: '#',
     repoUrl: '#',
