@@ -91,7 +91,7 @@ export const EDUCATION = [
   },
   {
     degree: 'Sertifikasi Fundamental Linux',
-    institution: 'Akademi Desain',
+    institution: 'Aguna Course',
     duration: '2020',
   },
 ];
