@@ -90,7 +90,7 @@ export const EDUCATION = [
     duration: '2024 - Sekarang',
   },
   {
-    degree: 'Sertifikasi Desain UI/UX Tingkat Lanjut',
+    degree: 'Sertifikasi Fundamental Linux',
     institution: 'Akademi Desain',
     duration: '2020',
   },
