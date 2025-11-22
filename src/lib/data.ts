@@ -86,7 +86,7 @@ export const EXPERIENCE = [
 export const EDUCATION = [
   {
     degree: 'S.Kom. dalam Ilmu Komputer',
-    institution: 'Universitas Teknologi',
+    institution: 'Areta Informatic Collage',
     duration: '2015 - 2019',
   },
   {
