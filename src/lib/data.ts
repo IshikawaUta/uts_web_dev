@@ -46,7 +46,7 @@ export const PROJECTS = [
     title: 'Eksa Shop',
     description: 'E-commerece yang dibuat dengan menggunakan flask sebagai backend dan Bootstrap sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-3',
-    liveUrl: '#',
+    liveUrl: 'https://store.ekasaputra.my.id/',
     repoUrl: '#',
     tags: ['Flask', 'MongoDB', 'Cloudinary', 'Bootstrap'],
   },
