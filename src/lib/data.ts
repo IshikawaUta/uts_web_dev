@@ -56,7 +56,7 @@ export const PROJECTS = [
     imageId: 'project-4',
     liveUrl: '#',
     repoUrl: '#',
-    tags: ['Python', 'GenAI', 'Stripe'],
+    tags: ['Flask', 'Bootstrap', 'MongoDB', 'Cloudinary'],
   },
 ];
 
