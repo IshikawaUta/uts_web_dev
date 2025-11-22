@@ -66,7 +66,7 @@ export const EXPERIENCE = [
     company: 'Eksa Shop',
     duration: '2025 - Sekarang',
     description: [
-      'Memimpin pengembangan dasbor baru yang menghadap klien menggunakan Next.js, yang menghasilkan peningkatan keterlibatan pengguna sebesar 40%.',
+      'Memimpin pengembangan dasbor baru yang menghadap klien menggunakan Flask, yang menghasilkan peningkatan keterlibatan pengguna sebesar 40%.',
       'Membimbing pengembang junior dan menetapkan praktik terbaik untuk kualitas dan pengujian kode.',
       'Berkolaborasi dengan desainer UX/UI untuk menerjemahkan wireframe menjadi kode berkualitas tinggi dan responsif.',
     ],
