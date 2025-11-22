@@ -44,7 +44,7 @@ export const PROJECTS = [
   },
   {
     title: 'Eksa Shop',
-    description: 'Aplikasi jejaring sosial yang mengutamakan seluler yang dirancang untuk menghubungkan individu yang berpikiran sama melalui minat dan acara bersama.',
+    description: 'E-commerece yang dibuat dengan menggunakan flask sebagai backend dan Bootstrap sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-3',
     liveUrl: '#',
     repoUrl: '#',
