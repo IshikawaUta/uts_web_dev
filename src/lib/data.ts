@@ -73,7 +73,7 @@ export const EXPERIENCE = [
   },
   {
     role: 'Full Stack Developer',
-    company: 'Digital Solutions Co.',
+    company: 'ITTI',
     duration: '2025 - Sekarang',
     description: [
       'Mengembangkan dan memelihara fitur untuk aplikasi React skala besar.',
