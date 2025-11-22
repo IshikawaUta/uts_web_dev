@@ -35,7 +35,7 @@ export const PROJECTS = [
     tags: ['Flask', 'MongoDB', 'Cloudinary', 'Milligram.CSS'],
   },
   {
-    title: 'Proyek Beta',
+    title: 'Benartwork',
     description: 'UI Kit yang ramping dan modern untuk aplikasi web, dibuat dengan Tailwind CSS dan dirancang untuk penggunaan kembali yang maksimal.',
     imageId: 'project-2',
     liveUrl: '#',
