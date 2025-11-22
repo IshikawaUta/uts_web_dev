@@ -4,7 +4,6 @@ export const NAV_LINKS = [
   { name: 'About', href: '#about' },
   { name: 'Projects', href: '#projects' },
   { name: 'Resume', href: '#resume' },
-  { name: 'AI Bio', href: '#ai-bio' },
   { name: 'Contact', href: '#contact' },
 ];
 

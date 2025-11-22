@@ -4,7 +4,6 @@ import { Hero } from '@/components/sections/hero';
 import { About } from '@/components/sections/about';
 import { Projects } from '@/components/sections/projects';
 import { Resume } from '@/components/sections/resume';
-import { AiBioGenerator } from '@/components/sections/ai-bio-generator';
 import { Contact } from '@/components/sections/contact';
 
 export default function Home() {
@@ -16,7 +15,6 @@ export default function Home() {
         <About />
         <Projects />
         <Resume />
-        <AiBioGenerator />
         <Contact />
       </main>
       <Footer />
