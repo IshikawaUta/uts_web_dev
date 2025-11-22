@@ -28,7 +28,7 @@ export const SKILLS = [
 export const PROJECTS = [
   {
     title: 'Portofolio Milligram',
-    description: 'Platform visualisasi data mutakhir yang mengubah kumpulan data kompleks menjadi grafik yang interaktif dan mudah dipahami.',
+    description: 'Portofolio yang dibuat dengan menggunakan flask sebagai backend dan Milligram sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-1',
     liveUrl: '#',
     repoUrl: '#',
