@@ -76,7 +76,7 @@ export const EXPERIENCE = [
     company: 'ITTI',
     duration: '2025 - Sekarang',
     description: [
-      'Mengembangkan dan memelihara fitur untuk aplikasi React skala besar.',
+      'Mengembangkan dan memelihara fitur untuk aplikasi Flask skala besar.',
       'Meningkatkan kinerja aplikasi dengan mengoptimalkan rendering komponen dan manajemen status.',
       'Berpartisipasi dalam tim agile, berkontribusi pada perencanaan sprint dan tinjauan kode.',
     ],
