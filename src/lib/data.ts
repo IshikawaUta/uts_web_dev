@@ -36,7 +36,7 @@ export const PROJECTS = [
   },
   {
     title: 'Benartwork',
-    description: 'UI Kit yang ramping dan modern untuk aplikasi web, dibuat dengan Tailwind CSS dan dirancang untuk penggunaan kembali yang maksimal.',
+    description: 'Portofolio yang dibuat dengan menggunakan flask sebagai backend dan Bootstrap sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-2',
     liveUrl: '#',
     repoUrl: '#',
