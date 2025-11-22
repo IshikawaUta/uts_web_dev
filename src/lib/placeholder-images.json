@@ -2,31 +2,31 @@
   "placeholderImages": [
     {
       "id": "profile-picture",
-      "description": "A portrait of a person.",
-      "imageUrl": "https://res.cloudinary.com/dzsqaauqn/image/upload/v1751897200/nxdkmqhzszftsvmazjdc.jpg",
+      "description": "Potret diri.",
+      "imageUrl": "https://res.cloudinary.com/dzsqaauqn/image/upload/v1754627248/Screenshot_2025-08-08_111921_tdddvc.jpg",
       "imageHint": "portrait person"
     },
     {
       "id": "project-1",
-      "description": "Abstract visualization of data networks.",
+      "description": "Visualisasi abstrak dari jaringan data.",
       "imageUrl": "https://images.unsplash.com/photo-1738082956220-a1f20a8632ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkYXRhJTIwbmV0d29ya3xlbnwwfHx8fDE3NjM3MTE0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "data network"
     },
     {
       "id": "project-2",
-      "description": "A modern web application dashboard.",
+      "description": "Dasbor aplikasi web modern.",
       "imageUrl": "https://images.unsplash.com/photo-1635183607544-bf69187cc310?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXNoYm9hcmQlMjB1aXxlbnwwfHx8fDE3NjM3NjYwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "dashboard ui"
     },
     {
       "id": "project-3",
-      "description": "Mobile application interface design.",
+      "description": "Desain antarmuka aplikasi seluler.",
       "imageUrl": "https://images.unsplash.com/photo-1551650975-87deedd944c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzYzNzcyMzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mobile app"
     },
     {
       "id": "project-4",
-      "description": "E-commerce website on a laptop screen.",
+      "description": "Situs web e-commerce di layar laptop.",
       "imageUrl": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlY29tbWVyY2UlMjB3ZWJzaXRlfGVufDB8fHx8MTc2MzczMzA4OXww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "ecommerce website"
     }
