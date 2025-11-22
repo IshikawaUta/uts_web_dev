@@ -54,7 +54,7 @@ export const PROJECTS = [
     title: 'Ekspost',
     description: 'Web ini dibuat dengan menggunakan Flask sebagai backend dan Bootstrap sebagai frontend juga MongoDB Atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-4',
-    liveUrl: '#',
+    liveUrl: 'https://ekspost.vercel.app/index',
     repoUrl: '#',
     tags: ['Flask', 'Bootstrap', 'MongoDB', 'Cloudinary'],
   },
