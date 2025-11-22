@@ -3,7 +3,7 @@
     {
       "id": "profile-picture",
       "description": "A portrait of a person.",
-      "imageUrl": "https://images.unsplash.com/photo-1586299485759-f62264d6b63f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjM2OTg1MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://res.cloudinary.com/dzsqaauqn/image/upload/v1751897200/nxdkmqhzszftsvmazjdc.jpg",
       "imageHint": "portrait person"
     },
     {
