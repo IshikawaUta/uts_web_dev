@@ -74,7 +74,7 @@ export const EXPERIENCE = [
   {
     role: 'Insinyur Perangkat Lunak',
     company: 'Digital Solutions Co.',
-    duration: '2019 - 2021',
+    duration: '2025 - Sekarang',
     description: [
       'Mengembangkan dan memelihara fitur untuk aplikasi React skala besar.',
       'Meningkatkan kinerja aplikasi dengan mengoptimalkan rendering komponen dan manajemen status.',
