@@ -27,7 +27,7 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
-    title: 'Proyek Alpha',
+    title: 'Portofolio Milligram',
     description: 'Platform visualisasi data mutakhir yang mengubah kumpulan data kompleks menjadi grafik yang interaktif dan mudah dipahami.',
     imageId: 'project-1',
     liveUrl: '#',
