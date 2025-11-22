@@ -36,7 +36,7 @@ export const PROJECTS = [
   },
   {
     title: 'Benartwork',
-    description: 'Portofolio yang dibuat dengan menggunakan flask sebagai backend dan Bootstrap sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
+    description: 'E-commerece yang dibuat dengan menggunakan flask sebagai backend dan Bootstrap sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-2',
     liveUrl: '#',
     repoUrl: '#',
