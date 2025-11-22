@@ -43,7 +43,7 @@ export const PROJECTS = [
     tags: ['Flask', 'MongoDB', 'Cloudinary', 'Bootstrap'],
   },
   {
-    title: 'Proyek Gamma',
+    title: 'Eksa Shop',
     description: 'Aplikasi jejaring sosial yang mengutamakan seluler yang dirancang untuk menghubungkan individu yang berpikiran sama melalui minat dan acara bersama.',
     imageId: 'project-3',
     liveUrl: '#',
