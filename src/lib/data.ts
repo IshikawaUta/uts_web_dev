@@ -40,7 +40,7 @@ export const PROJECTS = [
     imageId: 'project-2',
     liveUrl: 'https://www.benartwork07.com/',
     repoUrl: '#',
-    tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
+    tags: ['Flask', 'MongoDB', 'Cloudinary', 'Bootstrap'],
   },
   {
     title: 'Proyek Gamma',
