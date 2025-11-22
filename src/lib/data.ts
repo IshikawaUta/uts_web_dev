@@ -63,7 +63,7 @@ export const PROJECTS = [
 export const EXPERIENCE = [
   {
     role: 'Pengembang Backend',
-    company: 'Tech Innovators Inc.',
+    company: 'Eksa Shop',
     duration: '2021 - Sekarang',
     description: [
       'Memimpin pengembangan dasbor baru yang menghadap klien menggunakan Next.js, yang menghasilkan peningkatan keterlibatan pengguna sebesar 40%.',
