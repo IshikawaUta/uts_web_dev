@@ -72,7 +72,7 @@ export const EXPERIENCE = [
     ],
   },
   {
-    role: 'Insinyur Perangkat Lunak',
+    role: 'Full Stack Developer',
     company: 'Digital Solutions Co.',
     duration: '2025 - Sekarang',
     description: [
