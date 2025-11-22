@@ -13,7 +13,7 @@ export function Hero() {
         <div className="grid gap-10 lg:grid-cols-2">
           <div className="flex flex-col justify-center space-y-4">
             <h1 className="font-headline text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-              Alex Doe
+              eka saputra
             </h1>
             <h2 className="text-2xl font-medium text-primary md:text-3xl">
               Creative Developer & UI/UX Designer
