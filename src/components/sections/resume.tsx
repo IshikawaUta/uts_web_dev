@@ -8,9 +8,9 @@ export function Resume() {
     <section id="resume" className="w-full bg-card py-20 md:py-32">
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
-          <SectionHeading>My Resume</SectionHeading>
+          <SectionHeading>Resume Saya</SectionHeading>
           <p className="max-w-[700px] text-muted-foreground md:text-xl">
-            A snapshot of my professional journey and educational background.
+            Cuplikan perjalanan profesional dan latar belakang pendidikan saya.
           </p>
         </div>
 
@@ -19,7 +19,7 @@ export function Resume() {
           <div className="space-y-8">
             <div className="flex items-center gap-4">
               <Briefcase className="h-8 w-8 text-primary" />
-              <h3 className="font-headline text-3xl font-bold">Experience</h3>
+              <h3 className="font-headline text-3xl font-bold">Pengalaman</h3>
             </div>
             <div className="relative space-y-8 pl-8 before:absolute before:inset-y-0 before:left-3 before:w-0.5 before:bg-border">
               {EXPERIENCE.map((job, index) => (
@@ -51,7 +51,7 @@ export function Resume() {
           <div className="space-y-8">
             <div className="flex items-center gap-4">
               <GraduationCap className="h-8 w-8 text-primary" />
-              <h3 className="font-headline text-3xl font-bold">Education</h3>
+              <h3 className="font-headline text-3xl font-bold">Pendidikan</h3>
             </div>
             <div className="relative space-y-8 pl-8 before:absolute before:inset-y-0 before:left-3 before:w-0.5 before:bg-border">
               {EDUCATION.map((edu, index) => (

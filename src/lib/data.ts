@@ -1,10 +1,10 @@
 import { Github, Linkedin, Mail, Twitter, Code, Database, Wind, Bot } from 'lucide-react';
 
 export const NAV_LINKS = [
-  { name: 'About', href: '#about' },
-  { name: 'Projects', href: '#projects' },
+  { name: 'Tentang', href: '#about' },
+  { name: 'Proyek', href: '#projects' },
   { name: 'Resume', href: '#resume' },
-  { name: 'Contact', href: '#contact' },
+  { name: 'Kontak', href: '#contact' },
 ];
 
 export const SOCIAL_LINKS = [
@@ -27,32 +27,32 @@ export const SKILLS = [
 
 export const PROJECTS = [
   {
-    title: 'Project Alpha',
-    description: 'A cutting-edge data visualization platform that turns complex datasets into interactive, understandable graphics.',
+    title: 'Proyek Alpha',
+    description: 'Platform visualisasi data mutakhir yang mengubah kumpulan data kompleks menjadi grafik yang interaktif dan mudah dipahami.',
     imageId: 'project-1',
     liveUrl: '#',
     repoUrl: '#',
     tags: ['React', 'D3.js', 'Node.js'],
   },
   {
-    title: 'Project Beta',
-    description: 'A sleek and modern UI Kit for web applications, built with Tailwind CSS and designed for maximum reusability.',
+    title: 'Proyek Beta',
+    description: 'UI Kit yang ramping dan modern untuk aplikasi web, dibuat dengan Tailwind CSS dan dirancang untuk penggunaan kembali yang maksimal.',
     imageId: 'project-2',
     liveUrl: '#',
     repoUrl: '#',
     tags: ['Next.js', 'Tailwind CSS', 'TypeScript'],
   },
   {
-    title: 'Project Gamma',
-    description: 'A mobile-first social networking app designed to connect like-minded individuals through shared interests and events.',
+    title: 'Proyek Gamma',
+    description: 'Aplikasi jejaring sosial yang mengutamakan seluler yang dirancang untuk menghubungkan individu yang berpikiran sama melalui minat dan acara bersama.',
     imageId: 'project-3',
     liveUrl: '#',
     repoUrl: '#',
     tags: ['React Native', 'Firebase', 'Figma'],
   },
   {
-    title: 'Project Delta',
-    description: 'An AI-powered e-commerce solution that provides personalized shopping experiences and intelligent product recommendations.',
+    title: 'Proyek Delta',
+    description: 'Solusi e-commerce bertenaga AI yang menyediakan pengalaman berbelanja yang dipersonalisasi dan rekomendasi produk yang cerdas.',
     imageId: 'project-4',
     liveUrl: '#',
     repoUrl: '#',
@@ -62,36 +62,36 @@ export const PROJECTS = [
 
 export const EXPERIENCE = [
   {
-    role: 'Senior Frontend Developer',
+    role: 'Pengembang Frontend Senior',
     company: 'Tech Innovators Inc.',
-    duration: '2021 - Present',
+    duration: '2021 - Sekarang',
     description: [
-      'Led the development of a new client-facing dashboard using Next.js, resulting in a 40% increase in user engagement.',
-      'Mentored junior developers and established best practices for code quality and testing.',
-      'Collaborated with UX/UI designers to translate wireframes into high-quality, responsive code.',
+      'Memimpin pengembangan dasbor baru yang menghadap klien menggunakan Next.js, yang menghasilkan peningkatan keterlibatan pengguna sebesar 40%.',
+      'Membimbing pengembang junior dan menetapkan praktik terbaik untuk kualitas dan pengujian kode.',
+      'Berkolaborasi dengan desainer UX/UI untuk menerjemahkan wireframe menjadi kode berkualitas tinggi dan responsif.',
     ],
   },
   {
-    role: 'Software Engineer',
+    role: 'Insinyur Perangkat Lunak',
     company: 'Digital Solutions Co.',
     duration: '2019 - 2021',
     description: [
-      'Developed and maintained features for a large-scale React application.',
-      'Improved application performance by optimizing component rendering and state management.',
-      'Participated in an agile team, contributing to sprint planning and code reviews.',
+      'Mengembangkan dan memelihara fitur untuk aplikasi React skala besar.',
+      'Meningkatkan kinerja aplikasi dengan mengoptimalkan rendering komponen dan manajemen status.',
+      'Berpartisipasi dalam tim agile, berkontribusi pada perencanaan sprint dan tinjauan kode.',
     ],
   },
 ];
 
 export const EDUCATION = [
   {
-    degree: 'B.S. in Computer Science',
-    institution: 'University of Technology',
+    degree: 'S.Kom. dalam Ilmu Komputer',
+    institution: 'Universitas Teknologi',
     duration: '2015 - 2019',
   },
   {
-    degree: 'Advanced UI/UX Design Certification',
-    institution: 'Design Academy',
+    degree: 'Sertifikasi Desain UI/UX Tingkat Lanjut',
+    institution: 'Akademi Desain',
     duration: '2020',
   },
 ];

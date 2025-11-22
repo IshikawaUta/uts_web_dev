@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
   title: 'Eka Saputra',
-  description: 'A personal portfolio website built with Next.js and AI.',
+  description: 'Sebuah situs web portofolio pribadi yang dibangun dengan Next.js dan AI.',
 };
 
 export default function RootLayout({

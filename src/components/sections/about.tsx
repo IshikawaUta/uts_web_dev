@@ -20,16 +20,16 @@ export function About() {
       <div className="container px-4 md:px-6">
         <div className="grid gap-12 lg:grid-cols-3">
           <div className="space-y-4 lg:col-span-1">
-            <SectionHeading>About Me</SectionHeading>
+            <SectionHeading>Tentang Saya</SectionHeading>
             <p className="text-muted-foreground">
-              I am a passionate and results-oriented developer with a knack for creating intuitive and aesthetically pleasing digital products. With a strong foundation in both design principles and modern web technologies, I thrive in collaborative environments where I can bridge the gap between creative vision and technical execution.
+              Saya seorang pengembang yang bersemangat dan berorientasi pada hasil dengan bakat untuk menciptakan produk digital yang intuitif dan menyenangkan secara estetika. Dengan fondasi yang kuat dalam prinsip desain dan teknologi web modern, saya berkembang dalam lingkungan kolaboratif di mana saya dapat menjembatani kesenjangan antara visi kreatif dan eksekusi teknis.
             </p>
             <p className="text-muted-foreground">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or hiking in the great outdoors.
+              Ketika saya tidak sedang membuat kode, Anda dapat menemukan saya menjelajahi teknologi baru, berkontribusi pada proyek sumber terbuka, atau mendaki di alam bebas.
             </p>
           </div>
           <div className="lg:col-span-2">
-            <h3 className="mb-6 text-2xl font-bold font-headline">My Skills</h3>
+            <h3 className="mb-6 text-2xl font-bold font-headline">Keahlian Saya</h3>
             <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
               {SKILLS.map((skill) => {
                 const Icon = skill.icon === 'figma' ? FigmaIcon : skill.icon as LucideIcon;

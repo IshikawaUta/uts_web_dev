@@ -15,9 +15,9 @@ export function Projects() {
     <section id="projects" className="w-full py-20 md:py-32">
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
-          <SectionHeading>My Projects</SectionHeading>
+          <SectionHeading>Proyek Saya</SectionHeading>
           <p className="max-w-[700px] text-muted-foreground md:text-xl">
-            Here are some of the projects I'm proud of. Each one represents a unique challenge and a learning opportunity.
+            Berikut adalah beberapa proyek yang saya banggakan. Masing-masing merupakan tantangan unik dan kesempatan belajar.
           </p>
         </div>
         <div className="mt-12 grid gap-8 sm:grid-cols-1 md:grid-cols-2">
@@ -49,7 +49,7 @@ export function Projects() {
                 <CardFooter className="gap-2">
                   <Button asChild>
                     <Link href={project.liveUrl} target="_blank">
-                      <ExternalLink className="mr-2" /> Live Demo
+                      <ExternalLink className="mr-2" /> Demo Langsung
                     </Link>
                   </Button>
                   <Button variant="outline" asChild>

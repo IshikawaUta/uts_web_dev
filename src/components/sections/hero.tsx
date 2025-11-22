@@ -16,18 +16,18 @@ export function Hero() {
               eka saputra
             </h1>
             <h2 className="text-2xl font-medium text-primary md:text-3xl">
-              Creative Developer & UI/UX Designer
+              Creative Developer & Perancang UI/UX
             </h2>
             <p className="max-w-[600px] text-muted-foreground md:text-xl">
-              I build beautiful, responsive, and user-friendly web experiences. Turning complex problems into elegant digital solutions.
+              Saya membangun pengalaman web yang indah, responsif, dan ramah pengguna. Mengubah masalah kompleks menjadi solusi digital yang elegan.
             </p>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
               <Button asChild size="lg">
-                <Link href="#projects">View My Work</Link>
+                <Link href="#projects">Lihat Karya Saya</Link>
               </Button>
               <Button asChild variant="outline" size="lg">
                 <Link href="#contact">
-                  Get in Touch
+                  Hubungi Saya
                   <ArrowDown className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
