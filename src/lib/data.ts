@@ -48,7 +48,7 @@ export const PROJECTS = [
     imageId: 'project-3',
     liveUrl: '#',
     repoUrl: '#',
-    tags: ['React Native', 'Firebase', 'Figma'],
+    tags: ['Flask', 'MongoDB', 'Cloudinary', 'Bootstrap'],
   },
   {
     title: 'Proyek Delta',
