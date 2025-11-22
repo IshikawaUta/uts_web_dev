@@ -87,7 +87,7 @@ export const EDUCATION = [
   {
     degree: 'S.Kom. dalam Ilmu Komputer',
     institution: 'Areta Informatic Collage',
-    duration: '2015 - 2019',
+    duration: '2024 - Sekarang',
   },
   {
     degree: 'Sertifikasi Desain UI/UX Tingkat Lanjut',
