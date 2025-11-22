@@ -51,7 +51,7 @@ export const PROJECTS = [
     tags: ['Flask', 'MongoDB', 'Cloudinary', 'Bootstrap'],
   },
   {
-    title: 'Proyek Delta',
+    title: 'Ekspost',
     description: 'Solusi e-commerce bertenaga AI yang menyediakan pengalaman berbelanja yang dipersonalisasi dan rekomendasi produk yang cerdas.',
     imageId: 'project-4',
     liveUrl: '#',
