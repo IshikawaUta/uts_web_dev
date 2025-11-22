@@ -10,7 +10,7 @@ export const NAV_LINKS = [
 export const SOCIAL_LINKS = [
   { icon: Github, href: 'https://github.com/IshikawaUta' },
   { icon: Linkedin, href: 'https://www.linkedin.com/in/ishikawa-uta' },
-  { icon: Mail, href: '#' },
+  { icon: Mail, href: 'mailto:komikers09@gmail.com' },
 ];
 
 export const SKILLS = [
