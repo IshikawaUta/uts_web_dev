@@ -4,7 +4,7 @@ import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
-  title: 'LuminaFolio',
+  title: 'Eka Saputra',
   description: 'A personal portfolio website built with Next.js and AI.',
 };
 

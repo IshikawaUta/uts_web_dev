@@ -15,7 +15,7 @@ export function Header() {
       <div className="container flex h-14 items-center">
         <div className="mr-4 flex items-center">
           <Link href="/" className="mr-6 flex items-center space-x-2">
-            <span className="font-bold font-headline">LuminaFolio</span>
+            <span className="font-bold font-headline">eka saputra</span>
           </Link>
           <nav className="hidden gap-6 text-sm md:flex">
             {NAV_LINKS.map((link) => (
@@ -53,7 +53,7 @@ export function Header() {
             </SheetTrigger>
             <SheetContent side="left">
               <Link href="/" className="mb-8 flex items-center">
-                <span className="font-bold font-headline">LuminaFolio</span>
+                <span className="font-bold font-headline">eka saputra</span>
               </Link>
               <nav className="flex flex-col gap-6 text-lg font-medium">
                 {NAV_LINKS.map((link) => (
