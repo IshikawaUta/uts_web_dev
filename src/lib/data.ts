@@ -32,7 +32,7 @@ export const PROJECTS = [
     imageId: 'project-1',
     liveUrl: 'https://folio.ekasaputra.my.id/',
     repoUrl: '#',
-    tags: ['Flask', 'MongoDB', 'Cloudinary', 'Milligram.CSS'],
+    tags: ['Flask', 'MongoDB', 'Cloudinary', 'Milligram CSS'],
   },
   {
     title: 'Benartwork',
