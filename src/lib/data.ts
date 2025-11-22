@@ -62,7 +62,7 @@ export const PROJECTS = [
 
 export const EXPERIENCE = [
   {
-    role: 'Pengembang Frontend Senior',
+    role: 'Pengembang Backend',
     company: 'Tech Innovators Inc.',
     duration: '2021 - Sekarang',
     description: [
