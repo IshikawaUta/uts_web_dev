@@ -30,7 +30,7 @@ export const PROJECTS = [
     title: 'Portofolio Milligram',
     description: 'Portofolio yang dibuat dengan menggunakan flask sebagai backend dan Milligram sebagai frontend dan mongodb atlas dan cloudinary sebagai penyimpanan manajemen konten',
     imageId: 'project-1',
-    liveUrl: '#',
+    liveUrl: 'https://folio.ekasaputra.my.id/',
     repoUrl: '#',
     tags: ['React', 'D3.js', 'Node.js'],
   },
