@@ -30,8 +30,9 @@ export async function sendEmail(formData: FormData) {
 
   try {
     const { data, error } = await resend.emails.send({
-      from: 'onboarding@resend.dev',
+      from: 'Eka Saputra Portfolio <komikers09@gmail.com>', // Menggunakan email terverifikasi sebagai pengirim
       to: 'komikers09@gmail.com', 
+      reply_to: email, // Menambahkan alamat email pengguna ke header balasan
       subject: `Pesan baru dari ${name} via portofolio`,
       html: `
         <p>Anda menerima pesan baru dari formulir kontak portofolio Anda.</p>
