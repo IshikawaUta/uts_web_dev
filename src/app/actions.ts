@@ -9,7 +9,7 @@ const contactFormSchema = z.object({
   message: z.string().min(10, { message: 'Pesan harus memiliki setidaknya 10 karakter.' }),
 });
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend(process.env.RESEND_API_KEY || 're_jk38Fwyt_2BctVvhsoFs9Yf4jc8XPn3Sh');
 
 export async function sendEmail(formData: FormData) {
   const parsed = contactFormSchema.safeParse({
