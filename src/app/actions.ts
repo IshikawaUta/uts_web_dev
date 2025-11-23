@@ -9,7 +9,6 @@ const contactFormSchema = z.object({
   message: z.string().min(10, { message: 'Pesan harus memiliki setidaknya 10 karakter.' }),
 });
 
-// Pastikan RESEND_API_KEY Anda ada di file .env
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function sendEmail(formData: FormData) {
@@ -32,7 +31,7 @@ export async function sendEmail(formData: FormData) {
   try {
     const { data, error } = await resend.emails.send({
       from: 'onboarding@resend.dev',
-      to: 'komikers09@gmail.com',
+      to: 'komikers09@gmail.com', 
       subject: `Pesan baru dari ${name} via portofolio`,
       html: `
         <p>Anda menerima pesan baru dari formulir kontak portofolio Anda.</p>
