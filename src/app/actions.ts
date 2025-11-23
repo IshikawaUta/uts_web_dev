@@ -9,7 +9,8 @@ const contactFormSchema = z.object({
   message: z.string().min(10, { message: 'Pesan harus memiliki setidaknya 10 karakter.' }),
 });
 
-const resend = new Resend(process.env.RESEND_API_KEY || 're_jk38Fwyt_2BctVvhsoFs9Yf4jc8XPn3Sh');
+// Pastikan RESEND_API_KEY Anda ada di file .env
+const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function sendEmail(formData: FormData) {
   const parsed = contactFormSchema.safeParse({
@@ -21,6 +22,7 @@ export async function sendEmail(formData: FormData) {
   if (!parsed.success) {
     return {
       success: false,
+      error: 'Data yang dimasukkan tidak valid.',
       errors: parsed.error.flatten().fieldErrors,
     };
   }
@@ -42,13 +44,13 @@ export async function sendEmail(formData: FormData) {
     });
 
     if (error) {
-      console.error('Resend error:', error);
-      return { success: false, error: 'Gagal mengirim email.' };
+      console.error('Resend API Error:', error);
+      return { success: false, error: 'Gagal mengirim email karena kesalahan server.' };
     }
 
     return { success: true, data };
-  } catch (error) {
-    console.error('Email sending error:', error);
-    return { success: false, error: 'Terjadi kesalahan tak terduga.' };
+  } catch (exception) {
+    console.error('Email Sending Exception:', exception);
+    return { success: false, error: 'Terjadi kesalahan tak terduga saat mengirim email.' };
   }
 }

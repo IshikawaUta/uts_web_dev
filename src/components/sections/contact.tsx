@@ -51,7 +51,7 @@ export function Contact() {
       toast({
         variant: 'destructive',
         title: 'Gagal Mengirim Pesan',
-        description: 'Terjadi kesalahan. Silakan coba lagi nanti.',
+        description: result.error || 'Terjadi kesalahan. Silakan coba lagi nanti.',
       });
     }
   };
